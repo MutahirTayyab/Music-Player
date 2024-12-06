@@ -1,4 +1,4 @@
-                                            🎵 Music Player 🎶
+                                                🎵 Music Player 🎶
 
 A stylish and functional Music Player built using HTML, CSS, and JavaScript. This project showcases the ability to play, pause, and control audio tracks with a visually appealing user interface.
 
