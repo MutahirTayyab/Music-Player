@@ -1,5 +1,5 @@
-let progress=document.getElementById('progress');
 let song=document.getElementById('song');
+let progress=document.getElementById('progress');
 let ctrlIcon=document.getElementById('ctrlIcon');
 
 song.onloadedmetadata=function(){
